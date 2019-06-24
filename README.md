@@ -1,8 +1,7 @@
 # -Support
-# Support email：support@duodian.com
+# Support email：2582943552@qq.com
 # Or you can submit some issues
 
-# 技术支持：support@duodian.com
+# 技术支持：2582943552@qq.com
 # 或者你可以提交issue
 
-试你最强是一款趣味视频答题APP，考验你的记忆力和观察力。
